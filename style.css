@@ -1,0 +1,32 @@
+img{
+    width: 300px;
+    height: 400px;
+    margin: 20px 15px;
+}
+div{
+    padding: 50px;
+}
+.head{
+ font-size: 50px;
+ color: steelblue;
+}
+.para{
+color: rgb(192, 6, 6);
+}
+#click{
+background-color: whitesmoke;
+border-color: red;
+border-radius: 10px;
+border-style: solid;
+}
+.head, .para{
+font-family:'Courier New', Courier, monospace;
+}
+label{
+    color: rgb(9, 0, 128);
+}
+input{
+    border-color: black;
+    border-radius: 10px ;
+    border-style: solid;
+}
